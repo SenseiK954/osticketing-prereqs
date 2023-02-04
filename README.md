@@ -41,6 +41,7 @@ Windows 10</b> (21H2)
 <h2>Installation Steps</h2>
 
 <p>
+1.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
