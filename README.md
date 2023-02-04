@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Hi there, I am Faris, an IT Professional. Welcome to my first tutorial on setting up osTicket. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Hey, I'm Kenneth, an IT Professional. This is the first of a three-part setup of a ticketing software. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system OSTicket.<br />
 
 
 <h2>What is osTicket?</h2>
