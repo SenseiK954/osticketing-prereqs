@@ -21,10 +21,6 @@ OSTicket is a popular open-source support ticketing system. It efficiently merge
 
 Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Azure Virtual Machine (not required)
-- osTicket Installation files
 
 <h2>List of Prerequisites</h2>
 
