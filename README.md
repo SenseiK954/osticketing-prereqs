@@ -19,9 +19,9 @@ OSTicket is a widely-used open source support ticket system. It seamlessly integ
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Azure Virtual Machine
+- Azure Virtual Machine (not required)
 - osTicket Installation files
