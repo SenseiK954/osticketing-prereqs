@@ -19,7 +19,7 @@ OSTicket is a popular open-source support ticketing system. It efficiently merge
 - Microsoft Azure (Cloud/VMs)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Heidi SQL
+- MySQL Database
 
 <h2>Operating Systems Used </h2>
 
@@ -34,7 +34,7 @@ Windows 10</b> (21H2)
 - Download/Install Rewrite Module
 - Download/Install PHP (Most current version for windows)
 - Download/Install VC Redist (Microsoft Visual C++)  
-- Download/Install MySQL
+- Download/Install MySQL (version 5 or above)
 - Install osTicket (Current version)
 
 
