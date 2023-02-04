@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>OSTicket - Prerequisites and Installation</h1>
 Hey, I'm Kenneth, an IT Professional. This is the first of a three-part setup of a ticketing software. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system OSTicket.<br />
 
 
@@ -12,7 +12,7 @@ OSTicket is a widely-used open source support ticket system. It seamlessly integ
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Cloud)
 - Remote Desktop
 - Internet Information Services (IIS)
 - Heidi SQL
