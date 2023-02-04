@@ -10,6 +10,10 @@ Hey, I'm Kenneth, an IT Professional. This is the first of a three-part setup of
 OSTicket is a popular open-source support ticketing system. It efficiently merges email, phone, and web-based inquiries, then molds them into a simple, easy-to-use multi-user web interface. Manage, organize, and store all support queries and replies in one location, while offering clients with the accountability and timeliness they need.
 
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Configure osTicket, post-installation]([https://www.youtube.com/watch?v=K7T_JjvEamg&t=13s])
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Cloud/VMs)
