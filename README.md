@@ -7,7 +7,7 @@ Hey, I'm Kenneth, an IT Professional. This is the first of a three-part setup of
 
 
 <h2>What is OSTicket?</h2>
-OSTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone, and web-based, then forms it into a simple easy-to-use multi-user web interface. Manage, organize, and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness they deserve.
+OSTicket is a popular open-source support ticketing system. It efficiently merges email, phone, and web-based inquiries, then molds them into a simple, easy-to-use multi-user web interface. Manage, organize, and store all support queries and replies in one location, while offering clients with the accountability and timeliness they need.
 
 
 <h2>Environments and Technologies Used</h2>
