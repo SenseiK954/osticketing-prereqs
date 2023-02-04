@@ -28,11 +28,15 @@ Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Virtual Machine Creation in CSP (not required step for installation)
-- 
-- Item 3
-- Item 4
-- Item 5
+- Setup Virtual Environment-> Virtual Machine Creation in CSP (not required step for installation)
+- Enable/Install IIS in windows Control Panel w/CGI
+- Download/Install PHP Manager for IIS
+- Download/Install Rewrite Module
+- Download/Install PHP (Most current version for windows)
+- Download/Install VC Redist
+- Download/Install MySQL
+- Install osTicket (Current version)
+
 
 <h2>Installation Steps</h2>
 
