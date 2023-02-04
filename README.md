@@ -33,7 +33,7 @@ Windows 10</b> (21H2)
 - Download/Install PHP Manager for IIS
 - Download/Install Rewrite Module
 - Download/Install PHP (Most current version for windows)
-- Download/Install VC Redist
+- Download/Install VC Redist (Microsoft Visual C++)  
 - Download/Install MySQL
 - Install osTicket (Current version)
 
