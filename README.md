@@ -32,7 +32,8 @@ Windows 10</b> (21H2)
 - Enable/Install IIS or IIS web extension
 - Download/Install PHP (Most current version for windows)
 - Download/Install MySQL (version 5 or above)
-- Download/Install PHP Manager for IIS, Rewrite Module, VC Redist (Microsoft Visual C++), & Heidi SQL Note: These help other programs run smooth. 
+- Download/Install PHP Manager for IIS, Rewrite Module, VC Redist (Microsoft Visual C++), & Heidi SQL 
+Note: These are add-ons that help other programs run smooth and might already be included in installation packs.  
 - Install osTicket (Current version)
 
 
