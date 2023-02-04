@@ -29,12 +29,10 @@ Windows 10</b> (21H2)
 <h2>List of Prerequisites</h2>
 
 - Setup Virtual Environment-> Virtual Machine Creation in CSP (not required step for installation)
-- Enable/Install IIS in windows Control Panel w/CGI
-- Download/Install PHP Manager for IIS
-- Download/Install Rewrite Module
+- Enable/Install IIS or IIS web extension
 - Download/Install PHP (Most current version for windows)
-- Download/Install VC Redist (Microsoft Visual C++)  
 - Download/Install MySQL (version 5 or above)
+- Download/Install PHP Manager for IIS, Rewrite Module, VC Redist (Microsoft Visual C++), & Heidi SQL Note: These help other programs run smooth. 
 - Install osTicket (Current version)
 
 
