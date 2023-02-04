@@ -25,3 +25,11 @@ Windows 10</b> (21H2)
 
 - Azure Virtual Machine (not required)
 - osTicket Installation files
+
+<h2>List of Prerequisites</h2>
+
+- Virtual Machine Creation in CSP (not required step for installation)
+- 
+- Item 3
+- Item 4
+- Item 5
