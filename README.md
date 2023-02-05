@@ -49,7 +49,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 
 
 <p>
-2. .
+2. To continue, this section does not require an illustration since it will explain various applications to download and install into the virtual environment. First, go to your c: of your system and create a folder called "PHP" (this will be needed later). For now proceed to download and install the following applications (downloads can be located on the web or be accessible through a network): PHP Manager for IIS, Rewrite Module and VC Redist (Microsoft Visual C++). These downloads are straight forward and don't require any configuration before installing. Next Step...
 </p>
 <br />
 
