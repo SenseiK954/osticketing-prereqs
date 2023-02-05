@@ -21,6 +21,10 @@ OSTicket is a popular open-source support ticketing system. It efficiently merge
 - Internet Information Services (IIS)
 - MySQL Database
 
+<h2>Time it takes </h2>
+
+15-20 mins.
+
 <h2>Operating Systems Used </h2>
 
 Windows 10</b> (21H2)
@@ -49,7 +53,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 
 
 <p>
-2. To continue, this section does not require an illustration since it will explain various applications to download and install into the virtual environment. First, go to your c: of your system and create a folder called "PHP" (this will be needed later). For now proceed to download and install the following applications (downloads can be located on the web or be accessible through a network): PHP Manager for IIS, Rewrite Module and VC Redist (Microsoft Visual C++). These downloads are straight forward and don't require any configuration before installing. Next Step...
+2. To continue, this section does not require an illustration since it will explain various applications to download and install into the virtual environment. First, go to your c: of your system and create a folder called "PHP" (this will be needed later). For now proceed to download and install the following applications/software (downloads can be located on the web or be accessible through a network): PHP Manager for IIS, Rewrite Module and VC Redist (Microsoft Visual C++). These downloads are straight forward and don't require any configuration before installing. Next Step...
 </p>
 <br />
 
@@ -58,7 +62,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. .
 </p>
 <br />
 
@@ -66,7 +70,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -74,7 +78,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -82,7 +86,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -90,7 +94,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
