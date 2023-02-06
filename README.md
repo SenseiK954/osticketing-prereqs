@@ -105,15 +105,24 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/X5KEcyh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Back to the browser OSTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your Admin User account with OSTicket and your MySQL database
+8. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Back to the browser OSTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your helpdesk email, Admin User account with OSTicket, and your MySQL database once filled out on to the next step (don't install yet).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/NGpOZFz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kEB4lfO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/yAZO68j.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+9. Now download and install an application called HeidiSQL, this will allow us to interact with MySQL and create our database. Once downloaded and click finish to launch. Once launched use your User name and Password for MySQL to open a session and then click open. Once Opened create a database called osTicket. After that go back to the browser and click install.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Ib85ptO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+10. CONGRADULATIONS! If you are at this page you were successful installing and registering for osTicket. Well done!
+</p>
+<br />
+
 
