@@ -93,9 +93,10 @@ Note: These are add-ons that help other programs run smooth and might already be
 
 <p>
 <img src="https://i.imgur.com/NGpOZFz.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/KJMxd4u.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<p align="center"><img src="https://i.imgur.com/rPJZNUi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. 
 </p>
 <br />
 
