@@ -96,7 +96,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <p align="center"><img src="https://i.imgur.com/rPJZNUi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. 
+7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. On this page you can see the required installs we already in order to run OSTicket. Note: under the "Recommended" a list of features thate are activated or not. If you wish to enable or disable any features simply go to your IIS Manager (as Admin), navigate back to osTicket folder and double-click PHP Manager. Scroll down and you will see PHP extensions once clicked from there you can enable and disable php features. Next Step...
 </p>
 <br />
 
@@ -104,7 +104,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/KJMxd4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Back to the browser OSTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your Admin User account with OSTicket and your MySQL database
 </p>
 <br />
 
