@@ -79,7 +79,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <p align="center"><img src="https://i.imgur.com/O2NMAzU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. To continue, now open the IIS Manager application as Admin.(right click and select run as administrator).  
+5. To continue, now open the IIS Manager application as Admin.(right click and select run as administrator). Once opened double click PHP Manager and then select to register a PHP. Navigate to the c: drive PHP folder and then select the "php-cgi". Next step...
 </p>
 <br />
 
