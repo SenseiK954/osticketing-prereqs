@@ -62,7 +62,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. .
+3. Moving on, download the zip file of PHP for windows (current highest version). Once downloaded, right click the zip file and select extract then make the location for the extract to the "PHP" folder made in the previous step located on the c: drive. Next step...
 </p>
 <br />
 
