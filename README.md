@@ -67,10 +67,10 @@ Note: These are add-ons that help other programs run smooth and might already be
 <br />
 
 <p>
-<img src="https://i.imgur.com/sgkRESx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/sgkRESx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4OqTKoD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/sgkRESx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Next, download the latest MySQL for your database. The download and installation is simple click-through and once installed it's going to have "Launch Configuration Wizard" already marked (DO NOT UNMARK IT). Once the configuration Wizard is up simple click through first select standard configuration (unless you have specific configurations you would like to make in detail) then it wants you identify a user name and then a password for your database (make sure not to forget these creditials in order to access your database later). Next step...
+4. Next, download the latest MySQL for your database. The download and installation is simple click-through (typical install) and once installed it's going to have "Launch Configuration Wizard" already marked (DO NOT UNMARK IT). Once the configuration Wizard is up simple click through first select standard configuration (unless you have specific configurations you would like to make in detail) then it wants you identify a user name and then a password for your database (make sure not to forget these creditials in order to access your database later). Next step...
 </p>
 <br />
 
