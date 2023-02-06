@@ -87,7 +87,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/eJhrQA8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. Now download the latest OSTicket zip file (located on web or local network). Once downloaded open the zip file and you should see two folders. The one named "upload" copy that folder and navigate to your c:drive into "inetpub" folder and then "wwwroot" folder and place the copy there and rename the copy folder "osTicket" exactly like that no spaces. Next step...
 </p>
 <br />
 
