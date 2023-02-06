@@ -101,11 +101,11 @@ Note: These are add-ons that help other programs run smooth and might already be
 <br />
 
 <p>
-<img src="https://i.imgur.com/iK6ArM3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/yUotIfU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/9Fgg4mI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/vryn8Hw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iK6ArM3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/yUotIfU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9Fgg4mI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/vryn8Hw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Now click the 
+8. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Now right click this file and select properities (we are going to change it's security permissions for now). Go to security tab then click advanced. From here click "Disable inheritance" and select remove all. After that click Add and add an object name "Everybody" and then set Everybody's basic permissions to full controll. Note: at the end of installation make sure to come back and change these security persmissions to "read only and/or read & execute". Next step...
 </p>
 <br />
 
