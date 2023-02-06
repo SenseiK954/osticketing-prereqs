@@ -101,7 +101,8 @@ Note: These are add-ons that help other programs run smooth and might already be
 <br />
 
 <p>
-<img src="https://i.imgur.com/iK6ArM3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/X5KEcyh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iK6ArM3.png" height="60%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X5KEcyh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8. Before we go back to browser, go to your file explorer and navigate back to the osTicket folder we copied in your c:\inetpub\wwwroot, open the folder then open the folder named "include" then scroll down untill you see "ost-sampleconfig.php", rename this file "ost-config.php" (exactly like that). Back to the browser OSTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your Admin User account with OSTicket and your MySQL database
