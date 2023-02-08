@@ -2,12 +2,12 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>OSTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Installation</h1>
 Hey, I'm Kenneth, an IT Professional. This is the first of a three-part setup of a ticketing software. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system OSTicket.<br />
 
 
-<h2>What is OSTicket?</h2>
-OSTicket is a popular open-source support ticketing system. It efficiently merges email, phone, and web-based inquiries, then molds them into a simple, easy-to-use multi-user web interface. Manage, organize, and store all support queries and replies in one location, while offering clients with the accountability and timeliness they need.
+<h2>What is osTicket?</h2>
+osTicket is a popular open-source support ticketing system. It efficiently merges email, phone, and web-based inquiries, then molds them into a simple, easy-to-use multi-user web interface. Manage, organize, and store all support queries and replies in one location, while offering clients with the accountability and timeliness they need.
 
 
 <h2>Video Demonstration</h2>
@@ -53,7 +53,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 
 
 <p>
-2. To continue, this section does not require an illustration since it will explain various applications to download and install into the virtual environment. First, go to your c: of your system and create a folder called "PHP" (this will be needed later). For now proceed to download and install the following applications/software (downloads can be located on the web or be accessible through a network): PHP Manager for IIS, Rewrite Module and VC Redist (Microsoft Visual C++). These downloads are straight forward and don't require any configuration before installing. Next Step...
+2. To proceed, this part does not require an example because it will explain how to download and install numerous apps into the virtual environment. First, navigate to your system's c: drive and create a folder called "PHP" (this will be needed later). For the time being, download and install the following applications/software (which may be found on the web): PHP Manager for IIS, Rewrite Module, and VC Redist (Microsoft Visual C++). These files are simple and do not require any configuration before installation, just simple click-through. Next Step...
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Xo2kRFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Moving on, download the zip file of PHP for windows (current highest version). Once downloaded, right click the zip file and select extract then make the location for the extract to the "PHP" folder made in the previous step located on the c: drive. Next step...
+3. Moving on, download the zip file of PHP for windows (version 7 or higher). Once downloaded, right click the zip file and select extract then make the location for the extract to the "PHP" folder made in the previous step located on the c: drive. Next step...
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/4OqTKoD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/sgkRESx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Next, download the latest MySQL for your database. The download and installation is simple click-through (typical install) and once installed it's going to have "Launch Configuration Wizard" already marked (DO NOT UNMARK IT). Once the configuration Wizard is up simple click through first select standard configuration (unless you have specific configurations you would like to make in detail) then it wants you identify a user name and then a password for your database (make sure not to forget these creditials in order to access your database later). Next step...
+4. Next, download the most recent MySQL (version 5 or higher) for your database. The download and installation are straightforward click-throughs (usual installs), and once installed, "Launch Configuration Wizard" will be indicated (DO NOT UNMARK IT). When the configuration Wizard appears, just click through the steps, first selecting standard configuration (unless you have special customizations you wish to make in detail), then identify a username and password for your database (make sure not to forget these credentials in order to access your database later). Next step...
 </p>
 <br />
 
@@ -87,7 +87,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/eJhrQA8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Now download the latest OSTicket zip file (located on web or local network). Once downloaded open the zip file and you should see two folders. The one named "upload" copy that folder and navigate to your c:drive into "inetpub" folder and then "wwwroot" folder and place the copy there and rename the copy folder "osTicket" exactly like that no spaces. Next step...
+6. Now download the latest osTicket zip file (located on web or local network). Once downloaded open the zip file and you should see two folders. The one named "upload" copy that folder and navigate to your c:drive into "inetpub" folder and then "wwwroot" folder and place the copy there and rename the copy folder "osTicket" exactly like that no spaces. Next step...
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <p align="center"><img src="https://i.imgur.com/rPJZNUi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. On this page you can see the required installs we already in order to run OSTicket. Note: under the "Recommended" a list of features thate are activated or not. If you wish to enable or disable any features simply go to your IIS Manager (as Admin), navigate back to osTicket folder and double-click PHP Manager. Scroll down and you will see PHP extensions once clicked from there you can enable and disable php features. Next Step...
+7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. On this page you can see the required installs we already in order to run osTicket. Note: under the "Recommended" a list of features thate are activated or not. If you wish to enable or disable any features simply go to your IIS Manager (as Admin), navigate back to osTicket folder and double-click PHP Manager. Scroll down and you will see PHP extensions once clicked from there you can enable and disable php features. Next Step...
 </p>
 <br />
 
@@ -114,7 +114,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/X5KEcyh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. Back to the browser OSTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your helpdesk email, Admin User account with OSTicket, and your MySQL database once filled out on to the next step (don't install yet).
+9. Back to the browser osTicket installer. Click next once you are satisfied with what is installed. This will take you to the Basic Installation where you will registar your helpdesk email, Admin User account with osTicket, and your MySQL database once filled out on to the next step (don't install yet).
 </p>
 <br />
 
