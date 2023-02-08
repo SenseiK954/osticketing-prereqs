@@ -47,7 +47,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/URI1Iaj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. We must first use CGI to activate and install <b>Windows Internet Information Services (IIS)</b>. To achieve this, type "Turn Windows features on or off" into the Windows search box, and the Windows Features control panel will be shown. Scroll down and choose Internet Information Services, making sure to tick the box to enable IIS. Extend the IIS folder (do not deselect any folders), then extend the World Wide Web Services folder and Application Development Features, and last select CGI. Press ok (and apply if applicable). Next Step...
+1. We must first use CGI to activate and install Windows Internet Information Services (IIS). To achieve this, type "Turn Windows features on or off" into the Windows search box, and the Windows Features control panel will be shown. Scroll down and choose Internet Information Services, making sure to tick the box to enable IIS. Extend the IIS folder (do not deselect any folders), then extend the World Wide Web Services folder and Application Development Features, and last select CGI. Press ok (and apply if applicable). Next Step...
 </p>
 <br />
 
