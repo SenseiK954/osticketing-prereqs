@@ -130,7 +130,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/Ib85ptO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p align="center"><b>CONGRATULATIONS!</b> If you are at this page you were successful installing and registering for osTicket. Well done!
+<p align="center"><b>CONGRATULATIONS! If you are at this page you were successful installing and registering for osTicket. Well done!</b>
 </p>
 <br />
 
