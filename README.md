@@ -47,13 +47,13 @@ Note: These are add-ons that help other programs run smooth and might already be
 <img src="https://i.imgur.com/URI1Iaj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. We must first use CGI to activate and install Windows Internet Information Services (IIS). To achieve this, type "Turn Windows features on or off" into the Windows search box, and the Windows Features control panel will be shown. Scroll down and choose Internet Information Services, making sure to tick the box to enable IIS. Extend the IIS folder (do not deselect any folders), then extend the World Wide Web Services folder and Application Development Features, and last select CGI. Press ok (and apply if applicable). Next Step...
+1. We must first use CGI to activate and install Windows Internet Information Services (IIS). To achieve this, type "Turn Windows features on or off" into the Windows search box, and the Windows Features control panel will be shown. Scroll down and choose Internet Information Services, making sure to tick the box to enable IIS. Extend the IIS folder (do not deselect any folders), then extend the World Wide Web Services folder and Application Development Features, and last select CGI. Press ok (and apply if applicable). Next step...
 </p>
 <br />
 
 
 <p>
-2. To proceed, this part does not require an example because it will explain how to download and install numerous apps into the virtual environment. First, navigate to your system's c: drive and create a folder called "PHP" (this will be needed later). For the time being, download and install the following applications/software (which may be found on the web): PHP Manager for IIS, Rewrite Module, and VC Redist (Microsoft Visual C++). These files are simple and do not require any configuration before installation, just simple click-through. Next Step...
+2. To proceed, this part does not require an example because it will explain how to download and install numerous apps into the virtual environment. First, navigate to your system's c: drive and create a folder called "PHP" (this will be needed later). For the time being, download and install the following applications/software (which may be found on the web): PHP Manager for IIS, Rewrite Module, and VC Redist (Microsoft Visual C++). These files are simple and do not require any configuration before installation, just simple click-through. Next step...
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Note: These are add-ons that help other programs run smooth and might already be
 <p align="center"><img src="https://i.imgur.com/rPJZNUi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. On this page you can see the required installs we already in order to run osTicket. Note: under the "Recommended" a list of features thate are activated or not. If you wish to enable or disable any features simply go to your IIS Manager (as Admin), navigate back to osTicket folder and double-click PHP Manager. Scroll down and you will see PHP extensions once clicked from there you can enable and disable php features. Next Step...
+7. To continue, reopen your IIS Manager (as Admin) then restart the server. Once restarted "osticket" should be located under "sites" and "Default Web Site". Click osticket and then click "Browse *:80 (http), this will take you to the osticket installer page. On this page you can see the required installs we already in order to run osTicket. Note: under the "Recommended" a list of features thate are activated or not. If you wish to enable or disable any features simply go to your IIS Manager (as Admin), navigate back to osTicket folder and double-click PHP Manager. Scroll down and you will see PHP extensions once clicked from there you can enable and disable php features. Next step...
 </p>
 <br />
 
